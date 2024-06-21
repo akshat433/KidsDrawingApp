@@ -20,11 +20,11 @@ The Kids Drawing App is a fun and interactive application designed specifically 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/kids-drawing-app.git
+    git clone https://github.com/akshat433/KidsDrawingApp.git
     ```
 2. Open the project in Android Studio:
     ```sh
-    cd kids-drawing-app
+    cd KidsDrawingApp
     ```
 3. Build and run the project on an emulator or a physical device.
 
